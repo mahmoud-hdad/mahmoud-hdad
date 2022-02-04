@@ -1,11 +1,9 @@
 Hello, I'm Mahmoud Awad
 
-This is a summary of my CV
-
 I am a front end developer
 
-I'm from Egypt
+I'm from earth
 
 3 years field experience
 
-Business contact:-mahmoud@hdad.org
+Business contact:- awd2707@gmail.com
